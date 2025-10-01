@@ -70,6 +70,7 @@ def mostrar_usuarios_e_contas(usuarios, contas):
                     print(f"Numero da conta: {j.get('num_conta')}\nAgencia: {j.get('agencia')}")
 
 
+
 saldo = 0
 limite = 500
 extrato = ""
